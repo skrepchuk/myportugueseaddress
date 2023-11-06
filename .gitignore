@@ -1,0 +1,17 @@
+#css
+/assets/css/css.css
+/assets/css/crossbrowser.css
+
+#fonts
+/assets/fonts/Bitter-Bold.ttf
+/assets/fonts/Bitter-Regular.ttf
+/assets/fonts/Bitter-Regular.ttf
+/assets/fonts/NunitoSans_7pt_Condensed-Bold.ttf
+/assets/fonts/NunitoSans_7pt_Condensed-Light.ttf
+
+#javascript
+/assets/js/crossbrowser.js
+/assets/js/main.js
+
+#configurations
+/configurations.html
